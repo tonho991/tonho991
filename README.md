@@ -26,5 +26,5 @@
 </div>
 
 <div>
-  [Snake Game](https://raw.githubusercontent.com/tonho991/tonho991/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/tonho991/tonho991/output/github-contribution-grid-snake.svg" alt="Commit Snake Game" >
 </div>
